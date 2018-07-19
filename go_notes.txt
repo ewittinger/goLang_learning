@@ -1,0 +1,3 @@
+$ go run filenae.go -  run with out building executable
+$ go build filename.go - build executable
+$ ./ filename - to run executable
